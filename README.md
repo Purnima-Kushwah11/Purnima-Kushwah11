@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Purnima Kushwah]!
+# Hi there 👋, I'm Purnima Kushwah!
 
 I'm an **Aspiring Full Stack Developer** with a solid foundation in frontend technologies and a keen interest in backend development. Currently, I'm honing my skills and expanding my expertise in **Java Full Stack Development**.
 
