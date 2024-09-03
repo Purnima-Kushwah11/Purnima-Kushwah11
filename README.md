@@ -22,3 +22,5 @@ I'm an **Aspiring Full Stack Developer** with a solid foundation in frontend tec
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring)
 ![Oracle DB](https://img.shields.io/badge/-Oracle%20DB-05122A?style=flat&logo=oracle)
 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/purnima-kushwah-40284b24a/) | [Email](mailto:purnimakushwah960@gmail.com)
+
