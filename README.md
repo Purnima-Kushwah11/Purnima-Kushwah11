@@ -24,3 +24,5 @@ I'm an **Aspiring Full Stack Developer** with a solid foundation in frontend tec
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/purnima-kushwah-40284b24a/) | [Email](mailto:purnimakushwah960@gmail.com)
 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/purnima-kushwah-40284b24a/) | [Email](mailto:purnimakushwah960@gmail.com)
+
