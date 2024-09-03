@@ -22,13 +22,3 @@ I'm an **Aspiring Full Stack Developer** with a solid foundation in frontend tec
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring)
 ![Oracle DB](https://img.shields.io/badge/-Oracle%20DB-05122A?style=flat&logo=oracle)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-
-Feel free to connect with me as I continue my journey to becoming a well-rounded Full Stack Developer. Let's build something amazing together!
